@@ -1,0 +1,32 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.wine-stats {
+  margin-bottom: 30px;
+}
+
+.wine-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.wine-table th,
+.wine-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.wine-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.cell {
+  min-width: 80px;
+}
